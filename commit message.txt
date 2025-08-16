@@ -1,0 +1,7 @@
+git commit -m "🌍 [someday-nomad] Initial commit: The journey begins"
+
+# 특별한 날 사용할 커밋 메시지들:
+"✈️ [someday-nomad] feat: One step closer to Rovinj"
+"🌊 [someday-nomad] update: Remote work skills +1"
+"🎯 [someday-nomad] milestone: Digital nomad visa approved!"
+"🎉 [today-nomad] achievement: Made it to Rovinj!"
